@@ -1,0 +1,21 @@
+body {
+  background-color: hsl(0, 0%, 92%);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-block: 3rem;
+  min-height: 100vh;
+}
+.error-title {
+  font-weight: 700;
+}
+.error-context {
+  font-weight: 600;
+}
+.underline {
+  text-decoration: underline;
+}
+.error-context p {
+  color: grey;
+}

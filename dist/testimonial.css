@@ -1,0 +1,24 @@
+.carousel-item {
+  background-color: rgb(199, 198, 198);
+  max-width: 100%;
+  min-height: 300px;
+  border-radius: 0.5em;
+}
+.carousel-item .desc {
+  max-width: 50ch;
+  margin: auto;
+  align-self: center;
+}
+.navbar {
+  padding-inline: 2rem;
+  min-height: 6rem;
+  background: transparent !important;
+}
+@media screen and (max-width: 991px) {
+  .navbar-nav {
+    padding: 1rem 0.5rem;
+  }
+  .title {
+    text-align: center;
+  }
+}

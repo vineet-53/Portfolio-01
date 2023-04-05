@@ -1,0 +1,15 @@
+.navbar-brand > span {
+  position: relative;
+}
+.navbar-brand span::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 100%;
+  border: 1px solid black;
+  display: block;
+}
+a.link {
+  text-decoration: none !important;
+  color: white !important;
+}

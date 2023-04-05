@@ -1,0 +1,13 @@
+.navbar {
+  padding-inline: 2rem;
+  min-height: 6rem;
+  background: transparent !important;
+}
+@media screen and (max-width: 991px) {
+  .navbar-nav {
+    padding: 1rem 0.5rem;
+  }
+}
+a {
+  text-decoration: none;
+}
