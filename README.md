@@ -1,19 +1,6 @@
 
 # PortFolio
 I crafted a portfolio website using HTML, CSS, and JavaScript as part of my ongoing learning journey.
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  git clone ....
-  npm install my-project
-  cd my-project
-  npm install 
-  npm run dev
-```
     
 ## Tech Stack
 - HTML 
